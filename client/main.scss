@@ -1,0 +1,54 @@
+/* CSS declarations go here */
+
+/*@import url(https://fonts.google.com/specimen/Great+Vibes?selection.family=Great+Vibes|Open+Sans);*/
+
+
+$font-stack: 'Great Vibes', Open Sans;
+$primary:red;
+
+
+html{
+
+	background: url(/img/leaves_bg.jpg) no-repeat center center fixed;
+	background-size: cover;
+	/*-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;*/
+}
+
+
+.maintitle{
+
+	
+
+	.titletext{
+		
+		
+
+		font-family: 'Lalezar', cursive;
+		font-family: 'Open Sans', sans-serif;
+
+		text-align: center;
+		
+		color: #9B2F16;
+	}
+
+}
+
+
+
+.content{
+	/*width: 500px;
+	height: 500px;
+	background: $primary;
+
+	.btn{
+		background: none; 
+		width: 100px; 
+		color:#fff;
+		border: none;
+		&:hover{border:2px dotted gold;}
+	}
+	img{width:100%;}*/
+}
+
